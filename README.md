@@ -3,3 +3,10 @@
 An extension for keyboard shortcuts on Canvas. Here is a list:
 
 - [x] Arrow keys (L/R) on SpeedGrader to cycle through assignments.
+
+## Browser Support
+
+- [x] Firefox
+- [ ] Chrome
+- [ ] Edge
+- [ ] Opera
