@@ -2,6 +2,8 @@
 
 ![Version](https://img.shields.io/badge/version-v1.1-green)
 
+**This add-on injects JavaScript into web pages under `*.instructure.com` domains.**
+
 An extension for keyboard shortcuts on Canvas. Here is a list:
 
 ## Shortcuts
