@@ -1,6 +1,6 @@
 # Canvas Shortcuts
 
-![Version](https://img.shields.io/badge/version-v1.1-green)
+![Version](https://img.shields.io/badge/version-v1.2-green)
 
 **This add-on injects JavaScript into web pages under `*.instructure.com` domains.**
 
@@ -16,12 +16,13 @@ An extension for keyboard shortcuts on Canvas. Here is a list:
 ### SpeedGrader
 
 <ul>
-    <li><kbd>Alt+&gt;</kbd> || <kbd>Alt+&lt;</kbd> || <kbd>Shift+ArrowLeft</kbd> || <kbd>Shift+ArrowRight</kbd> = Cycle through submissions.</li>
+    <li><kbd>Alt+&gt;</kbd> || <kbd>Alt+&lt;</kbd> = Cycle through submissions.</li>
     <li><kbd>Alt+ArrowDown</kbd> = Open the dropdown of students.</li>
     <li><kbd>Alt+C</kbd> = Focus on the comment input box.</li>
     <li><kbd>Alt+Enter</kbd> = Submit comment (if comment box is focused).</li>
     <li><kbd>Alt+S</kbd> || <kbd>Alt+G</kbd> = Put the (S)core or (G)rade in.</li>
     <li><kbd>Alt+R</kbd> = Toggle rubric and focus on the first rubric item.</li>
+    <li><kbd>Alt+L</kbd> <kbd>[1-9a-z]</kbd> = Open a file. <kbd>Alt+L</kbd> first, followed by a key.</li>
 </ul>
 
 ## Supported Browsers

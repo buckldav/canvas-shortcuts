@@ -2,7 +2,7 @@
   "description": "Helpful shortcuts for Canvas SpeedGrader.",
   "manifest_version": 2,
   "name": "Canvas Shortcuts",
-  "version": "1.1",
+  "version": "1.2",
   "homepage_url": "https://github.com/buckldav/canvas-shortcuts/tree/master/firefox",
   "icons": {
     "48": "icons/icon-48.png"
@@ -13,5 +13,10 @@
       "matches": ["*://*.instructure.com/*"],
       "js": ["canvas-shortcuts.js"]
     }
-  ]
+  ],
+  "browser_action": {
+    "default_icon": "icons/icon-48.png",
+    "default_title": "Canvas Shortcuts",
+    "default_popup": "index.html"
+  }
 }
