@@ -1,6 +1,6 @@
 # Canvas Shortcuts
 
-![Version](https://img.shields.io/badge/version-v1.2-green)
+![Version](https://img.shields.io/badge/version-v1.3-green)
 
 **This add-on injects JavaScript into web pages under `*.instructure.com` domains.**
 
@@ -24,6 +24,10 @@ An extension for keyboard shortcuts on Canvas. Here is a list:
     <li><kbd>Alt+R</kbd> = Toggle rubric and focus on the first rubric item.</li>
     <li><kbd>Alt+L</kbd> <kbd>[1-9a-z]</kbd> = Open a file. <kbd>Alt+L</kbd> first, followed by a key.</li>
 </ul>
+
+## Global Student Searching
+
+As of `v1.3`, global student searching using [FZF](https://fzf.netlify.app/docs/latest) is supported in the help dialog (opened by pressing <kbd>Alt+F1</kbd>).
 
 ## Supported Browsers
 
