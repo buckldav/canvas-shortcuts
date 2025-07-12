@@ -1,6 +1,6 @@
 # Canvas Shortcuts
 
-![Version](https://img.shields.io/badge/version-v1.3-green)
+![Version](https://img.shields.io/badge/version-v1.4-green)
 
 <a href="https://www.buymeacoffee.com/dbuckley" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
