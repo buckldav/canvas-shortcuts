@@ -1,1 +1,0 @@
-zip -r -FS ../firefox-canvas-shortcuts.zip * --exclude "*.md" --exclude "*.sh"

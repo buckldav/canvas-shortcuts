@@ -2,18 +2,20 @@
 
 ![Version](https://img.shields.io/badge/version-v1.3-green)
 
+<a href="https://www.buymeacoffee.com/dbuckley" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 **This add-on injects JavaScript into web pages under `*.instructure.com` domains.**
 
-An extension for keyboard shortcuts on Canvas. Here is a list:
+An extension for keyboard shortcuts and a global student search on Canvas. Here is a list of shortcuts:
 
 ## Shortcuts
 
 <ul>
-    <li><kbd>Alt+F1</kbd> = Open help dialog.</li>
+    <li><kbd>Alt+F1</kbd> = Open help dialog and student search.</li>
     <li><kbd>Esc</kbd> = Close help dialog.</li>
 </ul>
 
-### SpeedGrader
+### Shortcuts in SpeedGrader
 
 <ul>
     <li><kbd>Alt+&gt;</kbd> || <kbd>Alt+&lt;</kbd> = Cycle through submissions.</li>
@@ -31,12 +33,12 @@ As of `v1.3`, global student searching using [FZF](https://fzf.netlify.app/docs/
 
 ## Supported Browsers
 
-- [x] Firefox
+- [x] [Firefox](https://addons.mozilla.org/en-US/firefox/addon/canvas-shortcuts/)
 - [x] Chrome (and Chrome-based browsers like Brave)
-- [ ] Edge
+- [x] Edge (by enabling the Chrome Web Store in Settings)
 - [ ] Safari
 - [ ] Opera
 
 ## Suggestions
 
-If you have a suggestion for a shortcut, open an issue or create a pull request.
+If you have a suggestion for a shortcut or feature, open an issue or create a pull request.
