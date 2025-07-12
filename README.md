@@ -32,7 +32,7 @@ As of `v1.3`, global student searching using [FZF](https://fzf.netlify.app/docs/
 ## Supported Browsers
 
 - [x] Firefox
-- [ ] Chrome
+- [x] Chrome (and Chrome-based browsers like Brave)
 - [ ] Edge
 - [ ] Safari
 - [ ] Opera
