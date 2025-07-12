@@ -6,7 +6,10 @@
 
 **This add-on injects JavaScript into web pages under `*.instructure.com` domains.**
 
-An extension for keyboard shortcuts and a global student search on Canvas. Here is a list of shortcuts:
+An extension for keyboard shortcuts and a global student search on Canvas.
+
+<img src="screenshots/student-search.png" width="400" style="    clip-path: inset(30px 50px 30px 50px round 25px); scale: 1.325">
+<img src="screenshots/speedgrader-shortcuts.png" width="400" style="    clip-path: inset(30px 50px 30px 50px round 25px); scale: 1.325">
 
 ## Shortcuts
 
