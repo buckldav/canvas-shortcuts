@@ -37,7 +37,7 @@ As of `v1.3`, global student searching using [FZF](https://fzf.netlify.app/docs/
 ## Supported Browsers
 
 - [x] [Firefox](https://addons.mozilla.org/en-US/firefox/addon/canvas-shortcuts/)
-- [x] Chrome (and Chrome-based browsers like Brave)
+- [x] [Chrome](https://chromewebstore.google.com/detail/canvas-shortcuts/kjlgbedhplcnklkcjgbhapmjoaedjibp) (and Chrome-based browsers like Brave)
 - [x] Edge (by enabling the Chrome Web Store in Settings)
 - [ ] Safari
 - [ ] Opera
